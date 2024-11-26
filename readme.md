@@ -17,7 +17,7 @@ The action has three required parameters:
 
 Additionally, you can specify:
 
-- `out`: the output folder location relative to the github workspace, by default it will be `reports`
+- `out`: the output folder location, by default it will be `reports`
 - `args`: any remaining flags and parameters to the binary, check the [arguments page](https://jeremylong.github.io/DependencyCheck/dependency-check-cli/arguments.html) for valid options
 
 Example:
@@ -93,3 +93,4 @@ Downloading this and opening it in a browser will give you the following (for ex
 Dependency check action was developed by the Santander UK Security Engineering team, namely:
 
 - [Javier Domínguez Ruiz](https://github.com/javixeneize)
+- [jreker](https://github.com/jreker)
